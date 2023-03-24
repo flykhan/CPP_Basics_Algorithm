@@ -33,4 +33,4 @@
 *.app
 
 **/*.exe
-**/gmon.out
+**/*.out
